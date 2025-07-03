@@ -1,5 +1,5 @@
 # 💫 About Me:
-Presently a third-year student pursuing a degree in Software Engineering at Universidade do Minho. Aspiring to immerse myself in my passions and foster meaningful connections with others. Tech enthusiast, driven by music production and actively engaged in creating media content.
+Recently graduated with a degree in Software Engineering from Universidade do Minho. Aspiring to immerse myself in my passions and foster meaningful connections with others. Tech enthusiast, driven by music production and actively engaged in creating media content.
 
 
 ## 🌐 Socials:
